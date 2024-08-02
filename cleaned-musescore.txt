@@ -1,14 +1,3 @@
-# cleaned-musescore
-An uBlock Origin filter list
-
-Before:
-![Before](bf.png)
-
-After:
-![After](af.png)
-
-[filter code](cleaned-musescore.txt):
-```txt
 ! Scores, Courses and Songbooks
 musescore.com##.MXIPY > .g1QZl.TtJOf.oJw2k.lPCDt
 musescore.com##.MXIPY
@@ -42,5 +31,3 @@ musescore.com##.KkvbQ.FCSZc
 
 ! ad at the bottom of the page
 musescore.com##.ASx44.s3Wga._gyAu.A0aO3.g1QZl
-
-```
