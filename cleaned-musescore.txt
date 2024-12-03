@@ -1,33 +1,52 @@
-! Scores, Courses and Songbooks
-musescore.com##.MXIPY > .g1QZl.TtJOf.oJw2k.lPCDt
-musescore.com##.MXIPY
-
-! Start Free Trial
-musescore.com##.u_VDg.MXKfV.utani.nIsQu.Dhs0s.HFvdW.o8abo.A_Jr2.TtlUw
-
-! Gift icon beside user name
-musescore.com##.iDiU7.k5ObP.undefined.He0db.UAofS
-
-! black friday banner
+! 2024/12/03 update
+! Hide discount banner
 musescore.com##._sQKq
 
-! Black friday in toggle list
-musescore.com##.uBrVm.OX2Fm.undefined.HFvdW.O9yD2.Cl2SE.zj781.MXKfV.u_VDg
+! Hide Recommended Course
+musescore.com##section.RJd4n.g1QZl:nth-of-type(1)
 
-! why am i seeing this under ad
-musescore.com##.Of8GF.KxlEV.Hn0VJ.EXa5J.sWtzt.eZJu1
+! Hide upgrade to pro in sidebar
+musescore.com##div.g1QZl.Bckv4.SqnhX:nth-of-type(1)
 
-! ad section in sidebar
-musescore.com##div.g1QZl.GemQU.SqnhX:nth-of-type(3)
+! Hide Why am i seeing this
+musescore.com##.CgHMj.g1QZl.z03Al.hQ6hq.Bz0hi.AJXCt.ASx44
 
-! ad at the bottom of sidebar
-musescore.com##div.g1QZl.GemQU.SqnhX:nth-of-type(10)
+! Hide Start Free Trial
+musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.Mh_fD.A_Jr2.TtlUw
 
-! unlock full access button
+! Hide Scores Songbooks and Courses
+musescore.com##.MXIPY > .g1QZl.TtJOf.oJw2k.lPCDt
+
+! Hide Trending Search
+musescore.com##.ifsT0
+
+! Hide Go Pro
+musescore.com##section.ehbCW.GgGe4:nth-of-type(1) > .WX4zB > a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:nth-of-type(8)
+
+! Hide your discount
+musescore.com##.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.undefined.OX2Fm.uBrVm
+
+! Hide gift pro
+musescore.com##section.ehbCW.GgGe4:nth-of-type(1) > .WX4zB > a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:nth-of-type(3)
+
+! Hide Try this score
+musescore.com##.VQlJ3
+
+! hide blank
+musescore.com##div.g1QZl.GemQU.SqnhX:nth-of-type(2)
+
+! Hide why am i seeing this
+musescore.com##div.g1QZl.GemQU.SqnhX:nth-of-type(4)
+
+! Hide mobile app in sidebar
+musescore.com##div.g1QZl.GemQU.SqnhX:nth-of-type(12)
+
+! hide unlock full access
 musescore.com##.Pbc53
 
-! rating bar
-musescore.com##.KkvbQ.FCSZc
+! Hide buttom ads
+musescore.com##.g1QZl.s3Wga
 
-! ad at the bottom of the page
-musescore.com##.ASx44.s3Wga._gyAu.A0aO3.g1QZl
+! hide please rate this song
+musescore.com##.FCSZc.KkvbQ
+
