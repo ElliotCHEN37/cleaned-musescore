@@ -1,14 +1,15 @@
 # cleaned-musescore
 An uBlock Origin filter list
 
-Before:
-![Before](bf.png)
-
-After:
-![After](af.png)
-
 [filter code](cleaned-musescore.txt):
 ```txt
+! 2025/01/13 update
+! Hide Upgrade to Premium Button
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.encore-inverted-light-set.fcsOIN.ButtonInner-sc-14ud5tc-0
+
+! Hide Upgrade to Premium in the list
+open.spotify.com##li.rQ6LXqVlEOGZdGIG0LgP:nth-of-type(3)
+
 ! 2024/12/03 update
 ! Hide discount banner
 musescore.com##._sQKq
@@ -60,4 +61,10 @@ musescore.com##.g1QZl.s3Wga
 
 ! hide please rate this song
 musescore.com##.FCSZc.KkvbQ
+
+! hide mobile app in sidebar
+musescore.com##div.g1QZl.GemQU.SqnhX:nth-of-type(10)
+
+! hide about in sidebar
+musescore.com##.GC6Kg.eq72e.netWp
 ```
